@@ -1,25 +1,23 @@
+## Case Study
+
 Khris's Pong
 
-A remake of the classic game Pong using Unity as a portfolio project.
+## Overview
 
-This version includes:
+This is a recreation of Pong, created as a portfolio project to demonstrate my ability to take a small-scope idea to completion.
 
-- an AI opponent with 3 difficulties.
-- a scoring system.
+### Key Features
+
+- an AI opponent with 3 difficulties levels.
+- a scoring system to track win/loss conditions.
 - a responsive main menu and game over screen.
 - an animated countdown between goals.
-- sound effects
+- sound effects for interaction and feedback.
 
-## Play the Game Here
+### Development
 
-[Play on Itch.io](https://khristhedev.itch.io/classic-pong-by-khris)
+It took me roughly 40 hours over many days, including testing, bug fixes, and deployment. Built with Unity2D, C#, and Visual Studio Code
 
-## Built with
+## Play Game Here
 
-- Unity (2D)
-- C#
-- Visual Studio Code
-
-## Goal
-
-This was built as a foundational game to demonstrate programming structure, UI flow, AI logic, and full game loop polish as part of a growing game development portfolio.
+Play on Itch.io: (https://khristhedev.itch.io/classic-pong-by-khris)
